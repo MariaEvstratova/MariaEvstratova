@@ -1,101 +1,61 @@
-Привет, я Мария Евстратова! 👋
-https://img.shields.io/badge/GitHub-MariaEvstratova-blue
+# Привет, я Мария Евстратова! 👋
 
-О себе
-💻 Программирование – мое основное увлечение
+[![GitHub Profile](https://img.shields.io/badge/GitHub-MariaEvstratova-blue)](https://github.com/MariaEvstratova)
 
-🏆 Участник хакатонов и соревнований:
+## О себе
 
-🥈 2 место на II Всероссийском хакатоне «Обучаюсь. Проектирую. Программирую. Будущее»
+💻 Программирование – мое основное увлечение  
+🤝 Коммуникабельна, люблю работать в команде  
+🌍 Свободно владею английским языком  
 
-Участник кейс-чемпионата Deadline по искусственному интеллекту (Python)
+## 🏆 Достижения
 
-🎓 Образование:
+### Хакатоны и соревнования:
+- 🥈 **2 место** на II Всероссийском хакатоне «Обучаюсь. Проектирую. Программирую. Будущее»
+- 🏅 Участник кейс-чемпионата Deadline по искусственному интеллекту (Python)
 
-Окончила с отличием Яндекс Лицей
+### Образование:
+- 🎓 Окончила с отличием **Яндекс Лицей**
+- 📊 Прошла специализацию по **анализу данных и машинному обучению**
 
-Прошла специализацию по анализу данных и машинному обучению
+## 🚀 Мои проекты
 
-🌍 Английский – свободное владение
+### Веб-разработка
+🛒 **[Веб-сайт на Flask](http://food-shop.pro/)**  
+Интернет-магазин продуктов питания  
+*Технологии: Python, Flask, HTML, CSS*
 
-🤝 Коммуникабельна, люблю работать в команде
+### Телеграм-боты
+🤖 **[@CyberItCubeBot](https://t.me/CyberItCubeBot)**  
+Функциональный телеграм-бот  
+*Технологии: Python, Telegram API*
 
-Мои проекты
-Веб-разработка
-🛒 Веб-сайт на Flask - интернет-магазин продуктов питания
+## 💻 Навыки
 
-Телеграм-боты
-🤖 @CyberItCubeBot - функциональный телеграм-бот
+### Языки программирования:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Навыки
-Языки программирования: Python, JavaScript (базовый уровень)
+### Фреймворки:
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-Фреймворки: Flask
+### Data Science & ML:
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Data Science & ML: анализ данных, машинное обучение
+### Веб-разработка:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Веб-разработка: HTML, CSS
+### Инструменты:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Другое: Git, работа с API
+## 📫 Контакты
 
-Контакты
-GitHub: MariaEvstratova
+[![GitHub](https://img.shields.io/badge/GitHub-MariaEvstratova-181717?style=for-the-badge&logo=github)](https://github.com/MariaEvstratova)  
+[![Telegram](https://img.shields.io/badge/Telegram-@CyberItCubeBot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/pprawwda)  
+📧 Для сотрудничества: *evster.maria@yandex.ru*  
 
-Для сотрудничества: напишите мне (замените на реальный email)
+---
 
-⭐ Приветствуются предложения по сотрудничеству и интересным проектам!
-
-только сделай формата readme.md
-markdown
-# Maria Evstratova 👩‍💻
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue)](https://github.com/MariaEvstratova)
-
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Maria Evstratova"
-        self.passion = "Programming"
-        self.education = {
-            "Yandex Lyceum": "Graduated with honors",
-            "Specialization": "Data Analysis & ML"
-        }
-        self.skills = ["Python", "Flask", "Data Science", "Web Development"]
-        self.english = "Fluent"
-🏆 Achievements
-🥈 2nd Place at All-Russian Hackathon "Learning. Designing. Programming. Future"
-
-🏅 Participant in Deadline AI Case Championship (Python)
-
-💼 Projects
-Project	Description	Tech Stack	Link
-Food Shop	E-commerce website	Flask, Python	food-shop.pro
-CyberItCubeBot	Telegram bot	Python, Telegram API	@CyberItCubeBot
-📊 Skills
-Programming Languages
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-Web Development
-https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-Tools
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-
-📫 Let's Connect
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
-text
-**Note:** Replace placeholder links (Telegram, Email) with your actual contact information
-
-This README features:
-- Clean, modern formatting with badges
-- Interactive code block introduction
-- Project table for better organization
-- Skill badges for visual appeal
-- Responsive design elements
-- All in proper markdown format
+⭐ Буду рада новым знакомствам и интересным проектам!
