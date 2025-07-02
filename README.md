@@ -52,9 +52,8 @@
 
 ## 📫 Контакты
 
-[![GitHub](https://img.shields.io/badge/GitHub-MariaEvstratova-181717?style=for-the-badge&logo=github)](https://github.com/MariaEvstratova)  
-[![Telegram](https://img.shields.io/badge/Telegram-@CyberItCubeBot-26A5E4?style=for-the-badge&logo=telegram)]([https://t.me/pprawwda](https://t.me/pprawwda)) 
-[![Telegram](https://img.shields.io/badge/Telegram-@CyberItCubeBot-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/pprawwda)  
+[![GitHub](https://img.shields.io/badge/GitHub-MariaEvstratova-181717?style=for-the-badge&logo=github)](https://github.com/MariaEvstratova)
+[![Telegram](https://img.shields.io/badge/Telegram-EvstratovaMaria-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/pprawwda)  
 📧 Для сотрудничества: *evster.maria@yandex.ru*  
 
 ---
